@@ -70,7 +70,7 @@ export const products = [
     retailPrice: "25.00",
     stock: 20,
     sizes: ["Único ( 38/44 )"],
-    colors: [,"Variados","Stitch","Netflix","Borboleta","Unicórnio","Coração","Mickey e Minnie","Disney","Vaquinha","Coroa","Hello kitty"]
+    colors: ["Variados","Stitch","Netflix","Borboleta","Unicórnio","Coração","Mickey e Minnie","Disney","Vaquinha","Coroa","Hello kitty"]
   },
   {
     category: "camisola",
