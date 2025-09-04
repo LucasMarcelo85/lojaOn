@@ -54,6 +54,8 @@ const ResponsiveNavbar = () => {
     { text: 'Infantil', value: 'infantil' },
     { text: 'Conjunto casal', value: 'conjunto casal' },
     { text: 'Americano', value: 'americano' },
+    { text: 'Lingerie', value: 'lingerie' },
+    
   ];
 
   const navItems = [

@@ -37,6 +37,42 @@ export const products = [
     colors: ["Stitch","Netflix","Borboleta"]
   },
   {
+    category: "babydoll",
+    galleryImages: [
+      "/image/Baby Doll Lia adulto (1).jpg",
+      "/image/Baby Doll Lia adulto (2).jpg",
+      "/image/Baby Doll Lia adulto (3).jpg",
+      "/image/Baby Doll Lia adulto (4).jpg",
+      "/image/Baby Doll Lia adulto (5).jpg",
+      "/image/Baby Doll Lia adulto (6).jpg",
+      "/image/Baby Doll Lia adulto (7).jpg",
+      "/image/Baby Doll Lia adulto (8).jpg",
+      "/image/Baby Doll Lia adulto (9).jpg",
+      "/image/Baby Doll Lia adulto (10).jpg",
+      "/image/Baby Doll Lia adulto (11).jpg",
+      "/image/Baby Doll Lia adulto (12).jpg",
+      "/image/Baby Doll Lia adulto (13).jpg",
+      "/image/Baby Doll Lia adulto (14).jpg",
+      "/image/Baby Doll Lia adulto (15).jpg",
+      "/image/Baby Doll Lia adulto (16).jpg",
+      "/image/Baby Doll Lia adulto (17).jpg",
+      "/image/Baby Doll Lia adulto (18).jpg",
+      "/image/Baby Doll Lia adulto (19).jpg",
+      "/image/Baby Doll Lia adulto (20).jpg",
+      "/image/Baby Doll Lia adulto (21).jpg"
+      
+    ],
+    id: "174345674102",
+    title: "Baby Doll Lia adulto",
+  description: "Leve, moderno e super confortável. Ideal para relaxar!",
+    imageUrl: "/image/Baby Doll Lia adulto (1).jpg",
+    price: "15.00",
+    retailPrice: "25.00",
+    stock: 20,
+    sizes: ["Único ( 38/44 )"],
+    colors: [,"Variados","Stitch","Netflix","Borboleta","Unicórnio","Coração","Mickey e Minnie","Disney","Vaquinha","Coroa","Hello kitty"]
+  },
+  {
     category: "camisola",
     galleryImages: [
       "/image/Camisola Sued  (1).jpg",
@@ -88,6 +124,126 @@ export const products = [
     stock: 20,
     sizes: ["Único ( 2 a 8 anos  )"],
      colors: ["Stitch","Princesa"]
+  },
+  {
+    category: "lingerie",
+    galleryImages: [
+      "/image/Espera Marido (1).jpg",
+      "/image/Espera Marido (2).jpg",
+      "/image/Espera Marido (3).jpg",
+      "/image/Espera Marido (4).jpg",
+      "/image/Espera Marido (5).jpg"
+     
+    ],
+    id: "1748834372782",
+    title: "Espera Marido", 
+  description: "Lingerie de fabricação própria, com renda delicada e modelos lindos que unem beleza e conforto.",
+    imageUrl: "/image/Espera Marido (1).jpg",
+    price: "13.00",
+    retailPrice: "20.00",
+    stock: 20,
+    sizes: ["P","M","G","GG"],
+     colors: ["Preto","Azul","Rosa","Vinho","Vermelho"]
+  },
+  {
+    category: "lingerie",
+    galleryImages: [
+      "/image/Lingerie Secret (1).jpg",
+      "/image/Lingerie Secret (2).jpg",
+      "/image/Lingerie Secret (3).jpg",
+      "/image/Lingerie Secret (4).jpg",
+      "/image/Lingerie Secret (5).jpg",
+      "/image/Lingerie Secret (6).jpg",
+      "/image/Lingerie Secret (7).jpg",
+      "/image/Lingerie Secret (8).jpg",
+   
+     
+    ],
+    id: "174883234782",
+    title: "Lingerie Secret", 
+  description: "Lingerie de fabricação própria, com Tule delicada e modelos lindos que unem beleza e conforto.",
+    imageUrl: "/image/Lingerie Secret (7).jpg",
+    price: "19.00",
+    retailPrice: "30.00",
+    stock: 20,
+    sizes: ["P","M","G"],
+     colors: ["Preto","Azul","Rosa","Vinho","Vermelho","Branco","Roxo","Amarelo"]
+  },
+   {
+    category: "lingerie",
+    galleryImages: [
+      "/image/lingerie com bojo.jpg",
+   
+     
+    ],
+    id: "17ww234234782",
+    title: "Lingerie Bicolor com bojo", 
+  description: "Lingerie de fabricação própria, delicada e modelos lindos que unem beleza e conforto.",
+    imageUrl: "/image/lingerie com bojo.jpg",
+    price: "19.50",
+    retailPrice: "35.00",
+    stock: 20,
+    sizes: ["P","M","G"],
+     colors: ["Preto","Azul","Rosa","Vinho","Vermelho","Branco","Roxo","Amarelo"]
+  },
+  {
+    category: "lingerie",
+    galleryImages: [
+      "/image/lingerie com bojo.jpg",
+   
+     
+    ],
+    id: "17335234782",
+    title: "Lingerie basica com bojo", 
+  description: "Lingerie de fabricação própria, delicada e modelos lindos que unem beleza e conforto.",
+    imageUrl: "/image/lingerie sem bojo.jpg",
+    price: "18.50",
+    retailPrice: "35.00",
+    stock: 20,
+    sizes: ["P","M","G"],
+     colors: ["Preto","Azul","Rosa","Vinho","Vermelho","Branco","Roxo","Amarelo"]
+  },
+   {
+    category: "lingerie",
+    galleryImages: [
+      "/image/Lingerie Nina (2).jpg",
+      "/image/Lingerie Nina (3).jpg",
+      "/image/Lingerie Nina (4).jpg",
+      "/image/Lingerie Nina (1).jpg",
+   
+     
+    ],
+    id: "1748234234782",
+    title: "Lingerie Nina", 
+  description: "Lingerie de fabricação própria, com Renda delicada e modelos lindos que unem beleza e conforto.",
+    imageUrl: "/image/Lingerie Nina (2).jpg",
+    price: "19.00",
+    retailPrice: "30.00",
+    stock: 20,
+    sizes: ["P","M","G"],
+     colors: ["Preto","Azul","Rosa","Vinho","Vermelho","Branco","Roxo","Amarelo"]
+  },
+  {
+    category: "macaquino",
+    galleryImages: [
+      "/image/Macaquinho Suede Adulto (1).jpg",
+      "/image/Macaquinho Suede Adulto (2).jpg",
+      "/image/Macaquinho Suede Adulto (3).jpg",
+      "/image/Macaquinho Suede Adulto (4).jpg",
+      "/image/Macaquinho Suede Adulto (5).jpg",
+      "/image/Macaquinho Suede Adulto (6).jpg",
+      "/image/Macaquinho Suede Adulto (7).jpg",
+      "/image/Macaquinho Suede Adulto (8).jpg"
+    ],
+    id: "174w10372782",
+    title: "Macaquinho Suede Adulto",
+  description: "Macaquinho fofo, perfeito para brincar e dormir!",
+    imageUrl: "/image/Macaquinho Suede Adulto (1).jpg",
+    price: "18.00",
+    retailPrice: "25.00",
+    stock: 20,
+    sizes: [" único ( 38/44 )"],
+     colors: ["Stitch","Hello kitty","Coração","Coroa","Vaquinha","Borboleta"]
   },
   {
     category: "infantil",
@@ -230,11 +386,56 @@ export const products = [
     ]
   },
   {
+    category: "babydoll",
+    galleryImages: [
+      "/image/Baby Luxo Kelly (1).jpg",
+      "/image/Baby Luxo Kelly (2).jpg",
+      "/image/Baby Luxo Kelly (3).jpg",
+      "/image/Baby Luxo Kelly (4).jpg",
+      "/image/Baby Luxo Kelly (5).jpg",
+      "/image/Baby Luxo Kelly (6).jpg",
+      "/image/Baby Luxo Kelly (7).jpg",
+      "/image/Baby Luxo Kelly (8).jpg",
+      "/image/Baby Luxo Kelly (9).jpg",
+      "/image/Baby Luxo Kelly (10).jpg",
+      "/image/Baby Luxo Kelly (11).jpg",
+      "/image/Baby Luxo Kelly (12).jpg",
+      "/image/Baby Luxo Kelly (13).jpg",
+      "/image/Baby Luxo Kelly (14).jpg"
+    
+    ],
+    id: "1we88105959048",
+    title: "Baby Luxo Kelly",
+  description: "Babydoll feito com Tecido Helanca, super confortável e cheia de cor!",
+    imageUrl: "/image/Baby Luxo Kelly (1).jpg",
+    price: "14.00",
+    retailPrice: "25.00",
+    stock: 20,
+    sizes: ["P","M", "G", "GG"],
+    colors: [
+      "Vermelho",
+      "Preto",
+      "Verde militar",
+      "Azul escuro",
+      "Lilas",
+      "Pink",
+      "Vinho",
+      "Rosa"
+    ]
+  },
+  {
     category: "conjunto casal",
     galleryImages: [
       "/image/Kit Mozão  (2).jpg",
       "/image/Kit Mozão  (3).jpg",
       "/image/Kit Mozão  (4).jpg",
+      "/image/Kit Mozão  (5).jpg",
+      "/image/Kit Mozão  (6).jpg",
+      "/image/Kit Mozão  (7).jpg",
+      "/image/Kit Mozão  (8).jpg",
+      "/image/Kit Mozão  (1).jpg",
+      "/image/Kit Mozão  (9).jpg",
+      "/image/Kit Mozão  (10).jpg"
     ],
     id: "1748810595908",
     title: "Kit Mozão",
@@ -244,7 +445,7 @@ export const products = [
     retailPrice: "50.00",
     stock: 20,
     sizes: ["Único ( 38/44 )"],
-    colors: ["Stitch","Mickey e Minnie"]
+    colors: ["Stitch","Mickey e Minnie","Disney"]
   },
   {
     category: "infantil",
