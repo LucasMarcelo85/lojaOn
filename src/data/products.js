@@ -186,23 +186,23 @@ export const products = [
     sizes: ["P","M","G"],
      colors: ["Preto","Azul","Rosa","Vinho","Vermelho","Branco","Roxo","Amarelo"]
   },
-  {
-    category: "lingerie",
-    galleryImages: [
-      "/image/lingerie com bojo.jpg",
+  // {
+  //   category: "lingerie",
+  //   galleryImages: [
+  //     "/image/lingerie com bojo.jpg",
    
      
-    ],
-    id: "17335234782",
-    title: "Lingerie basica com bojo", 
-  description: "Lingerie de fabricação própria, delicada e modelos lindos que unem beleza e conforto.",
-    imageUrl: "/image/lingerie sem bojo.jpg",
-    price: "18.50",
-    retailPrice: "35.00",
-    stock: 20,
-    sizes: ["P","M","G"],
-     colors: ["Preto","Azul","Rosa","Vinho","Vermelho","Branco","Roxo","Amarelo"]
-  },
+  //   ],
+  //   id: "17335234782",
+  //   title: "Lingerie basica com bojo", 
+  // description: "Lingerie de fabricação própria, delicada e modelos lindos que unem beleza e conforto.",
+  //   imageUrl: "/image/lingerie sem bojo.jpg",
+  //   price: "18.50",
+  //   retailPrice: "35.00",
+  //   stock: 20,
+  //   sizes: ["P","M","G"],
+  //    colors: ["Preto","Azul","Rosa","Vinho","Vermelho","Branco","Roxo","Amarelo"]
+  // },
    {
     category: "lingerie",
     galleryImages: [
