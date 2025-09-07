@@ -264,6 +264,171 @@ export const products = [
      colors: ["Stitch","Hello kitty","Princesa","Coroa"]
   },
   {
+    category: "infantil",
+    galleryImages: [
+      "/image/Box infantil.jpg",
+      
+      
+    ],
+    id: "173324667372782",
+    title: " 10 Calcinha Box infantil",
+  description: "Kit de 10 calcinhas divertidas para as pequenas!",
+    imageUrl: "/image/Box infantil.jpg",
+    price: "35.00",
+    retailPrice: "50.00",
+    stock: 20,
+    sizes: ["P","M","G"],
+     colors: ["Com estampa"]
+  },
+  {
+    category: "infantil",
+    galleryImages: [
+      "/image/Calcinha tanga infantil.jpg",
+      
+      
+    ],
+    id: "173344387372782",
+    title: " 10 Calcinha Box infantil",
+  description: "Kit de 10 calcinhas divertidas para as pequenas!",
+    imageUrl: "/image/Calcinha tanga infantil.jpg",
+    price: "35.00",
+    retailPrice: "50.00",
+    stock: 20,
+    sizes: ["P","M","G"],
+     colors: ["Com estampa"]
+  },
+  {
+    category: "lingerie",
+    galleryImages: [
+      "/image/Calcinha tanga adulto.jpg",
+      
+      
+    ],
+    id: "1733443874078582",
+    title: " 10 Calcinha tanga adulto",
+  description: "Kit de 10 calcinhas para o dia a dia!",
+    imageUrl: "/image/Calcinha tanga adulto.jpg",
+    price: "35.00",
+    retailPrice: "50.00",
+    stock: 20,
+    sizes: ["P","M","G"],
+     colors: ["Sem estampa"]
+  },
+   {
+    category: "lingerie",
+    galleryImages: [
+      "/image/Calcinha dupla adulto (1).jpg",
+      "/image/Calcinha dupla adulto (2).jpg"
+      
+      
+    ],
+    id: "173344387407507682",
+    title: " 10 Calcinha fio duplo adulto",
+  description: "Kit de 10 calcinhas fio duplo para o dia a dia!",
+    imageUrl: "/image/Calcinha dupla adulto (1).jpg",
+    price: "40.00",
+    retailPrice: "55.00",
+    stock: 20,
+    sizes: ["M","G"],
+     colors: ["Sem estampa"]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+    category: "infantil",
+    galleryImages: [
+      "/image/Cuecas infantil (2).jpg",
+      "/image/Cuecas infantil (1).jpg",
+      
+    ],
+    id: "17332110372782",
+    title: " 4 Cuecas infantil",
+  description: "Kit de 4 cuecas divertidas para os pequenos!",
+    imageUrl: "/image/Cuecas infantil (2).jpg",
+    price: "14.00",
+    retailPrice: "16.00",
+    stock: 20,
+    sizes: ["P","M","G"],
+     colors: ["Com estampa","Sem estampa"]
+  },
+  {
+    category: "outros",
+    galleryImages: [
+      "/image/Cuecas Adulto (2).jpg",
+      "/image/Cuecas Adulto (1).jpg"
+      
+    ],
+    id: "1732239110372782",
+    title: " 3 Cuecas Adulto",
+  description: "Kit de 3 cuecas básicas para o dia a dia!",
+    imageUrl: "/image/Cuecas Adulto (2).jpg",
+    price: "15.00",
+    retailPrice: "25.00",
+    stock: 20,
+    sizes: ["M","G","GG"],
+     colors: ["Com estampa","Sem estampa"]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
     category: "camisola",
     galleryImages: [
       "/image/Camisola Tule (1).jpg",
@@ -424,7 +589,7 @@ export const products = [
     ]
   },
   {
-    category: "conjunto casal",
+    category: "outros",
     galleryImages: [
       "/image/Kit Mozão  (2).jpg",
       "/image/Kit Mozão  (3).jpg",

@@ -52,9 +52,9 @@ const ResponsiveNavbar = () => {
     { text: 'Babydoll', value: 'babydoll' },
     { text: 'Camisola', value: 'camisola' },
     { text: 'Infantil', value: 'infantil' },
-    { text: 'Conjunto casal', value: 'conjunto casal' },
     { text: 'Americano', value: 'americano' },
     { text: 'Lingerie', value: 'lingerie' },
+    { text: 'Outros', value: 'outros' },
     
   ];
 
